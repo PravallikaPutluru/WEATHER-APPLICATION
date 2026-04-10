@@ -19,5 +19,6 @@ One of the key learning aspects of this project is understanding how APIs work. 
 This project is ideal for beginners who want to gain hands-on experience with real-world web development concepts. It covers essential topics such as DOM manipulation, event handling, API integration, and responsive design. Additionally, the project structure is simple and easy to understand, making it easy for anyone to modify or extend the functionality.Future enhancements can include features like displaying weather icons, adding a 5-day forecast, implementing geolocation to automatically detect the user’s location, and improving the UI with modern design frameworks. These improvements can further enhance the usability and visual appeal of the application.Overall, this Weather Application serves as a practical example of how web technologies can be used to build interactive and useful tools. It demonstrates the power of combining front-end development with external APIs to create real-time applications. This project not only fulfills the internship requirements but also provides a strong foundation for building more advanced web applications in the future.
 
 output
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2494b7f4-c3c4-470f-aa7b-389e188c7e25" />
 
 
